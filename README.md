@@ -1,0 +1,3 @@
+Ever have a test-lead wire that you don’t want to clip the stripped end off of, but you also don’t want the wire to accidentally touch something it shouldn’t? Here’s a little plug that slips over a stripped wire end to protect it from its surroundings. And vice-versa.
+
+There’s also a flat spot to add a small label. The wire is retained in the plug by a friction fit, so different size wires may need different parameters in the model.
